@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Aug 20 12:40:59 IST 2019","Tue Aug 20 12:40:59 IST 2019","3","","Sample  Suite","","Sample  Suite","Test 2","Test 2",""
+"skipped","Tue Aug 20 12:40:59 IST 2019","Tue Aug 20 12:40:59 IST 2019","1","","Sample  Suite","","Sample  Suite","Test 3","Test 3",""
+"passed","Tue Aug 20 12:40:59 IST 2019","Tue Aug 20 12:40:59 IST 2019","2","","Sample  Suite","","Sample  Suite","Test 1","Test 1",""
+"skipped","Tue Aug 20 12:40:59 IST 2019","Tue Aug 20 12:40:59 IST 2019","0","","Sample  Suite","","Sample  Suite","Test 4","Test 4",""

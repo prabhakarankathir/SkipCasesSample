@@ -1,0 +1,63 @@
+{
+  "uid" : "8328dea8af841145",
+  "name" : "Test 2",
+  "fullName" : "Sample  Suite.Test 2",
+  "historyId" : "b05dc2153573af1a983d5e8aef6d4c21",
+  "time" : {
+    "start" : 1566285059370,
+    "stop" : 1566285059373,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Sign in' to equal 'Sign up'.",
+  "statusTrace" : "Error: Expected 'Sign in' to equal 'Sign up'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (D:\\SkipCasesSample\\test\\specs\\authentication.js:16:23)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Sample  Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Sample  Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test 2"
+  }, {
+    "name" : "package",
+    "value" : "Sample  Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8328dea8af841145.json",
+  "parameterValues" : [ "chrome" ]
+}

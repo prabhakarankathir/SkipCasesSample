@@ -1,0 +1,79 @@
+{
+  "871de5f16ed24caa49e9778a5ce01052" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c85ee92a29c2e73",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1566285059376,
+        "stop" : 1566285059376,
+        "duration" : 0
+      }
+    } ]
+  },
+  "96fe031508f52b6e9d843d5d4fe50f95" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "477639a494788f59",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1566285059373,
+        "stop" : 1566285059374,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b05dc2153573af1a983d5e8aef6d4c21" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8328dea8af841145",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Sign in' to equal 'Sign up'.",
+      "time" : {
+        "start" : 1566285059370,
+        "stop" : 1566285059373,
+        "duration" : 3
+      }
+    } ]
+  },
+  "12a3739a9a6fe80df29a803e599cec4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f007e5390b20808c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566285059368,
+        "stop" : 1566285059370,
+        "duration" : 2
+      }
+    } ]
+  }
+}

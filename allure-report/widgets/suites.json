@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "138dff78ae36d8862844887b05893412",
+    "name" : "Sample  Suite",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

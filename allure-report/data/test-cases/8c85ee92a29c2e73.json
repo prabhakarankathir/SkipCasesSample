@@ -1,0 +1,57 @@
+{
+  "uid" : "8c85ee92a29c2e73",
+  "name" : "Test 4",
+  "fullName" : "Sample  Suite.Test 4",
+  "historyId" : "871de5f16ed24caa49e9778a5ce01052",
+  "time" : {
+    "start" : 1566285059376,
+    "stop" : 1566285059376,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Sample  Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Sample  Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test 4"
+  }, {
+    "name" : "package",
+    "value" : "Sample  Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c85ee92a29c2e73.json",
+  "parameterValues" : [ "chrome" ]
+}

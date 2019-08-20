@@ -1,0 +1,53 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Test 1",
+    "uid" : "f007e5390b20808c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566285059368,
+      "stop" : 1566285059370,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Test 2",
+    "uid" : "8328dea8af841145",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1566285059370,
+      "stop" : 1566285059373,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Test 3",
+    "uid" : "477639a494788f59",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1566285059373,
+      "stop" : 1566285059374,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Test 4",
+    "uid" : "8c85ee92a29c2e73",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1566285059376,
+      "stop" : 1566285059376,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  } ]
+}
